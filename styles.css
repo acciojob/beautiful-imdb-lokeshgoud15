@@ -1,2 +1,21 @@
 
 /* Your CSS Code here. */
+
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+.moviePic{
+	height:300px;
+	widht:300px;
+	opacity:0.5;
+}
+.movieDetail{
+	position:absolute;
+	top:30px;
+	width:500px;
+	font-size:20px;
+	text-align:justify;
+	/* color:red; */
+}
